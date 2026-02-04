@@ -1,3 +1,9 @@
+Họ và tên: Phạm Nguyễn Hưng
+
+Lớp: D18CNPM2
+
+MSV: 23810310276
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
